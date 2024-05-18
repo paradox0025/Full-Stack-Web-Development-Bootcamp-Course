@@ -3,7 +3,7 @@
 //----------
 
 //Single quotes
-const singleQuoteString = "This is a string using single quoutes";
+const singleQuoteString = 'This is a string using single quoutes';
 
 //double quotes
 const doubleQuoteString = "This is a string using double quoutes";
